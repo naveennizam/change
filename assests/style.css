@@ -1,0 +1,18 @@
+body {
+    justify-content: center;
+    display: flex;
+    height: 500px;
+    align-items: center;
+    background-color: blanchedalmond;
+}
+
+button {
+    width: 180px;
+    height: 80px;
+    border: none;
+    border-radius: 7px;
+    font-size: 30px;
+    cursor: pointer;
+    background-color: #84a0a8;
+    margin: 20px;
+}
